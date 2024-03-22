@@ -1,0 +1,6 @@
+﻿FALSE,ID,ID (copy),KPI,Selected KPI,Selected KPI Heatmap,TRUE
+False,1,1,Sales,True,False,True
+False,2,2,Gross Income,False,False,True
+False,3,3,COGS,False,False,True
+False,4,4,Orders,False,False,True
+False,5,5,Rating,False,True,True

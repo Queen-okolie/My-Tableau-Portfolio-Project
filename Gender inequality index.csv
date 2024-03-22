@@ -1,0 +1,175 @@
+﻿Continent,Country,GII Category,Id (copy),Index,UNDP Developing Regions,X,Y,0,1,100,GII 2021,GII Final,GII Rank (2021),Size,World Avg
+Asia,Afghanistan,Very High,Afghanistan,0,South Asia,1003.692466932,214.198981338,0,1,100,0.678,67.8,167,34262840,46.5
+Africa,Angola,High,Angola,1,Sub-Saharan Africa,832.086514525,148.769954152,0,1,100,0.537,53.7,136,33086278,46.5
+Europe,Albania,Very Low,Albania,2,Europe and Central Asia,321.450823251,243.359386052,0,1,100,0.144,14.4,39,2761785,46.5
+Asia,United Arab Emirates,Very Low,United Arab Emirates,3,Middle East & North Africa,195.269335285,283.550512669,0,1,100,0.049,4.9,11,9282410,46.5
+America,Argentina,Low,Argentina,4,Americas,507.216641421,256.331783360,0,1,100,0.287,28.7,69,46654581,46.5
+Asia,Armenia,Low,Armenia,5,Europe and Central Asia,417.044569532,154.645659230,0,1,100,0.216,21.6,53,2981200,46.5
+Oceania,Australia,Very Low,Australia,6,East Asia & Pacific,232.692750146,342.058424646,0,1,100,0.073,7.3,19,26825500,46.5
+Europe,Austria,Very Low,Austria,7,Europe and Central Asia,204.163214187,209.243708209,0,1,100,0.053,5.3,12,9129652,46.5
+Asia,Azerbaijan,Low,Azerbaijan,8,Europe and Central Asia,510.852743926,230.482066633,0,1,100,0.294,29.4,70,10151517,46.5
+Africa,Burundi,High,Burundi,9,Sub-Saharan Africa,783.469532170,371.869164358,0,1,100,0.505,50.5,127,12837740,46.5
+Europe,Belgium,Very Low,Belgium,10,Europe and Central Asia,206.365352350,265.974849268,0,1,100,0.048,4.8,10,11772639,46.5
+Africa,Benin,High,Benin,11,Sub-Saharan Africa,902.208850108,273.011374390,0,1,100,0.602,60.2,152,12606998,46.5
+Africa,Burkina Faso,High,Burkina Faso,12,Sub-Saharan Africa,937.426116270,259.651300949,0,1,100,0.621,62.1,157,22185654,46.5
+Asia,Bangladesh,High,Bangladesh,13,South Asia,822.699690420,209.717233387,0,1,100,0.53,53.0,131,169828911,46.5
+Europe,Bulgaria,Low,Bulgaria,14,Europe and Central Asia,414.091781415,361.359506020,0,1,100,0.21,21.0,52,6447710,46.5
+Asia,Bahrain,Low,Bahrain,15,Middle East & North Africa,385.925019468,148.430224558,0,1,100,0.181,18.1,46,1577059,46.5
+America,Bahamas,Medium,Bahamas,16,Americas,560.576831654,266.582318400,0,1,100,0.329,32.9,78,397360,46.5
+Europe,Bosnia and Herzegovina,Very Low,Bosnia and Herzegovina,17,Europe and Central Asia,315.420880256,258.467833686,0,1,100,0.136,13.6,38,3277082,46.5
+Europe,Belarus,Very Low,Belarus,18,Europe and Central Asia,276.588582985,289.521836182,0,1,100,0.104,10.4,29,9200617,46.5
+America,Belize,Medium,Belize,19,Americas,601.177556162,225.487350352,0,1,100,0.364,36.4,86,441471,46.5
+America,Bolivia,Medium,Bolivia,20,Americas,669.967322436,278.530886196,0,1,100,0.418,41.8,99,12006031,46.5
+America,Brazil,Medium,Brazil,21,Americas,635.368724272,263.619426607,0,1,100,0.39,39.0,94,203062512,46.5
+America,Barbados,Low,Barbados,22,Americas,483.942017983,256.948089177,0,1,100,0.268,26.8,64,267800,46.5
+Asia,Brunei,Low,Brunei,23,East Asia & Pacific,472.151629892,227.513387528,0,1,100,0.259,25.9,61,445400,46.5
+Asia,Bhutan,Medium,Bhutan,24,South Asia,665.099218416,295.419114005,0,1,100,0.415,41.5,98,770276,46.5
+Africa,Botswana,Medium,Botswana,25,Sub-Saharan Africa,754.923499263,181.845098809,0,1,100,0.468,46.8,117,2410338,46.5
+Africa,Central African Republic,Very High,Central African Republic,26,Sub-Saharan Africa,995.548340813,291.129090748,0,1,100,0.672,67.2,166,5633412,46.5
+America,Canada,Very Low,Canada,27,Americas,229.030714702,213.023387415,0,1,100,0.069,6.9,17,40478400,46.5
+Europe,Switzerland,Very Low,Switzerland,28,Europe and Central Asia,164.370863471,211.264794645,0,1,100,0.018,1.8,3,8902308,46.5
+America,Chile,Low,Chile,29,Americas,374.674935095,354.101128315,0,1,100,0.187,18.7,47,19960889,46.5
+Asia,China,Low,China,30,East Asia & Pacific,386.656325032,217.838150596,0,1,100,0.192,19.2,48,1411750000,46.5
+Africa,Ivory Coast,High,Ivory Coast,31,Sub-Saharan Africa,919.720933676,240.235147529,0,1,100,0.613,61.3,155,29389150,46.5
+Africa,Cameroon,High,Cameroon,32,Sub-Saharan Africa,862.667363913,296.386902513,0,1,100,0.565,56.5,148,28088845,46.5
+Africa,The Democratic Republic of the Congo,High,The Democratic Republic of the Congo,33,Sub-Saharan Africa,903.879625811,210.291530763,0,1,100,0.601,60.1,151,95370000,46.5
+Africa,Congo,High,Congo,34,Sub-Saharan Africa,869.344461852,274.660727615,0,1,100,0.564,56.4,147,6106869,46.5
+America,Colombia,Medium,Colombia,35,Americas,676.001396694,319.897320728,0,1,100,0.424,42.4,102,52215503,46.5
+Africa,Cabo Verde,Medium,Cabo Verde,36,Sub-Saharan Africa,581.817209368,245.430784015,0,1,100,0.349,34.9,84,491233,46.5
+America,Costa Rica,Low,Costa Rica,37,Americas,468.285794604,264.034360927,0,1,100,0.256,25.6,60,5262225,46.5
+America,Cuba,Medium,Cuba,38,Americas,533.337610341,259.566846917,0,1,100,0.303,30.3,73,11089511,46.5
+Asia,Cyprus,Very Low,Cyprus,39,Middle East & North Africa,297.162428360,285.028980228,0,1,100,0.123,12.3,35,918100,46.5
+Europe,Czechia,Very Low,Czechia,40,Europe and Central Asia,298.079258101,244.404379983,0,1,100,0.12,12.0,34,10873553,46.5
+Europe,Germany,Very Low,Germany,41,Europe and Central Asia,236.306159930,257.524186184,0,1,100,0.073,7.3,19,84482267,46.5
+Europe,Denmark,Very Low,Denmark,42,Europe and Central Asia,159.813402353,265.811126520,0,1,100,0.013,1.3,1,5944145,46.5
+America,Dominican Republic,Medium,Dominican Republic,43,Americas,689.845251705,342.891745239,0,1,100,0.429,42.9,106,10760028,46.5
+Africa,Algeria,Medium,Algeria,44,Middle East & North Africa,768.981152782,153.192533332,0,1,100,0.499,49.9,126,45400000,46.5
+America,Ecuador,Medium,Ecuador,45,Americas,599.878079949,248.305518681,0,1,100,0.362,36.2,85,16938986,46.5
+Africa,Egypt,Medium,Egypt,46,Middle East & North Africa,700.896166867,141.786243825,0,1,100,0.443,44.3,109,105486000,46.5
+Europe,Spain,Very Low,Spain,47,Europe and Central Asia,214.735994357,185.445492863,0,1,100,0.057,5.7,14,48345223,46.5
+Europe,Estonia,Very Low,Estonia,48,Europe and Central Asia,281.168861856,306.271135478,0,1,100,0.1,10.0,28,1365884,46.5
+Africa,Ethiopia,High,Ethiopia,49,Sub-Saharan Africa,802.556568572,168.130108191,0,1,100,0.52,52.0,129,107334000,46.5
+Europe,Finland,Very Low,Finland,50,Europe and Central Asia,183.611579841,268.331265022,0,1,100,0.033,3.3,6,5557272,46.5
+Oceania,Fiji,Medium,Fiji,51,East Asia & Pacific,550.691000924,257.511480218,0,1,100,0.318,31.8,77,893468,46.5
+Europe,France,Very Low,France,52,Europe and Central Asia,250.168255566,187.651699957,0,1,100,0.083,8.3,22,68184000,46.5
+Africa,Gabon,High,Gabon,53,Sub-Saharan Africa,839.062799112,238.239454865,0,1,100,0.541,54.1,140,2233272,46.5
+Europe,United Kingdom,Very Low,United Kingdom,54,Europe and Central Asia,272.052571037,233.264282498,0,1,100,0.098,9.8,27,67026292,46.5
+Asia,Georgia,Low,Georgia,55,Europe and Central Asia,493.143224682,236.619531351,0,1,100,0.28,28.0,66,3736400,46.5
+Africa,Ghana,High,Ghana,56,Sub-Saharan Africa,811.590255538,367.808471784,0,1,100,0.529,52.9,130,30832019,46.5
+Africa,Guinea,High,Guinea,57,Sub-Saharan Africa,933.586789894,219.829726620,0,1,100,0.621,62.1,157,13261638,46.5
+Africa,Gambia,High,Gambia,58,Sub-Saharan Africa,917.054127728,261.603287480,0,1,100,0.611,61.1,153,2417471,46.5
+Africa,Guinea-Bissau,High,Guinea-Bissau,59,Sub-Saharan Africa,939.817101188,293.990234168,0,1,100,0.627,62.7,159,1781308,46.5
+Europe,Greece,Very Low,Greece,60,Europe and Central Asia,294.832765726,210.298117472,0,1,100,0.119,11.9,32,10482487,46.5
+America,Guatemala,Medium,Guatemala,61,Americas,747.701985420,200.160696535,0,1,100,0.481,48.1,121,17602431,46.5
+America,Guyana,Medium,Guyana,62,Americas,717.974607859,119.873124509,0,1,100,0.454,45.4,114,743699,46.5
+America,Honduras,Medium,Honduras,63,Americas,690.915440191,278.455231842,0,1,100,0.431,43.1,107,9745149,46.5
+Europe,Croatia,Very Low,Croatia,64,Europe and Central Asia,264.109246238,258.341640298,0,1,100,0.093,9.3,26,3855641,46.5
+America,Haiti,High,Haiti,65,Americas,954.807286633,224.235325205,0,1,100,0.635,63.5,163,11743017,46.5
+Europe,Hungary,Low,Hungary,66,Europe and Central Asia,425.116785164,342.089025485,0,1,100,0.221,22.1,55,9597085,46.5
+Asia,Indonesia,Medium,Indonesia,67,East Asia & Pacific,703.255956107,201.363056990,0,1,100,0.444,44.4,110,279118866,46.5
+Asia,India,Medium,India,68,South Asia,762.460653107,272.103071514,0,1,100,0.49,49.0,122,1392329000,46.5
+Europe,Ireland,Very Low,Ireland,69,Europe and Central Asia,245.367291461,230.694719706,0,1,100,0.074,7.4,21,5281600,46.5
+Asia,Iran,Medium,Iran,70,South Asia,735.295401798,162.917931181,0,1,100,0.459,45.9,115,85340000,46.5
+Asia,Iraq,High,Iraq,71,Middle East & North Africa,861.873060726,251.163594222,0,1,100,0.558,55.8,145,43324000,46.5
+Europe,Iceland,Very Low,Iceland,72,Europe and Central Asia,190.802514014,218.988644507,0,1,100,0.043,4.3,8,396960,46.5
+Asia,Israel,Very Low,Israel,73,Middle East & North Africa,260.791479337,276.750963011,0,1,100,0.083,8.3,22,9802400,46.5
+Europe,Italy,Very Low,Italy,74,Europe and Central Asia,206.800525909,236.229012923,0,1,100,0.056,5.6,13,58780965,46.5
+America,Jamaica,Medium,Jamaica,75,Americas,567.374722799,253.748996952,0,1,100,0.335,33.5,80,2825544,46.5
+Asia,Jordan,Medium,Jordan,76,Middle East & North Africa,740.286061716,340.845959940,0,1,100,0.471,47.1,118,11497000,46.5
+Asia,Japan,Very Low,Japan,77,East Asia & Pacific,252.224960840,312.302410841,0,1,100,0.083,8.3,22,124340000,46.5
+Asia,Kazakhstan,Low,Kazakhstan,78,Europe and Central Asia,337.794282463,161.948889854,0,1,100,0.161,16.1,41,19944726,46.5
+Africa,Kenya,High,Kenya,79,Sub-Saharan Africa,789.268053515,345.270574979,0,1,100,0.506,50.6,128,51526000,46.5
+Asia,Kyrgyzstan,Medium,Kyrgyzstan,80,Europe and Central Asia,612.838201005,214.455640400,0,1,100,0.37,37.0,87,7100000,46.5
+Asia,Cambodia,Medium,Cambodia,81,East Asia & Pacific,732.077643027,131.936628081,0,1,100,0.461,46.1,116,17091464,46.5
+Asia,South Korea,Very Low,South Korea,82,East Asia & Pacific,220.953104419,289.692452171,0,1,100,0.067,6.7,15,51439038,46.5
+Asia,Kuwait,Medium,Kuwait,83,Middle East & North Africa,537.964210591,227.523936642,0,1,100,0.305,30.5,74,4670713,46.5
+Asia,Lao,Medium,Lao,84,East Asia & Pacific,752.740789427,379.803590089,0,1,100,0.478,47.8,120,7443000,46.5
+Asia,Lebanon,Medium,Lebanon,85,Middle East & North Africa,680.981872838,294.958374329,0,1,100,0.432,43.2,108,5490000,46.5
+Africa,Liberia,High,Liberia,86,Sub-Saharan Africa,965.624209561,260.689154064,0,1,100,0.648,64.8,164,5248621,46.5
+Africa,Libya,Low,Libya,87,Middle East & North Africa,473.065768375,310.549498556,0,1,100,0.259,25.9,61,6931061,46.5
+America,Saint Lucia,Medium,Saint Lucia,88,Americas,611.688050428,286.749678196,0,1,100,0.381,38.1,91,178696,46.5
+Asia,Sri Lanka,Medium,Sri Lanka,89,South Asia,630.617711029,329.029983558,0,1,100,0.383,38.3,92,22037000,46.5
+Africa,Lesotho,High,Lesotho,90,Sub-Saharan Africa,852.451232861,272.390707850,0,1,100,0.557,55.7,144,2306000,46.5
+Europe,Lithuania,Very Low,Lithuania,91,Europe and Central Asia,276.548298838,207.758261737,0,1,100,0.105,10.5,30,2866965,46.5
+Europe,Luxembourg,Very Low,Luxembourg,92,Europe and Central Asia,192.583032427,255.308688123,0,1,100,0.044,4.4,9,660809,46.5
+Europe,Latvia,Low,Latvia,93,Europe and Central Asia,331.191023172,259.860099235,0,1,100,0.151,15.1,40,1882000,46.5
+Africa,Morocco,Medium,Morocco,94,Middle East & North Africa,674.811940021,166.080801908,0,1,100,0.425,42.5,104,37136400,46.5
+Europe,Moldova,Low,Moldova,95,Europe and Central Asia,396.329325226,287.071820937,0,1,100,0.205,20.5,51,2512758,46.5
+Africa,Madagascar,High,Madagascar,96,Sub-Saharan Africa,855.780716005,189.025015568,0,1,100,0.556,55.6,143,26923353,46.5
+Asia,Maldives,Medium,Maldives,97,South Asia,585.437650925,272.496958497,0,1,100,0.348,34.8,83,382751,46.5
+America,Mexico,Medium,Mexico,98,Americas,535.768143481,292.616466104,0,1,100,0.309,30.9,75,129202482,46.5
+Europe,North Macedonia,Very Low,North Macedonia,99,Europe and Central Asia,312.887246426,230.342472667,0,1,100,0.134,13.4,37,1832696,46.5
+Africa,Mali,High,Mali,100,Sub-Saharan Africa,924.243071098,281.176488070,0,1,100,0.613,61.3,155,22395489,46.5
+Europe,Malta,Low,Malta,101,Europe and Central Asia,355.845132980,156.538309645,0,1,100,0.167,16.7,42,519562,46.5
+Asia,Myanmar,Medium,Myanmar,102,East Asia & Pacific,775.790637455,194.885894477,0,1,100,0.498,49.8,125,55770232,46.5
+Europe,Montenegro,Very Low,Montenegro,103,Europe and Central Asia,295.866605879,227.362200635,0,1,100,0.119,11.9,32,616695,46.5
+Asia,Mongolia,Medium,Mongolia,104,East Asia & Pacific,543.834709959,243.873820935,0,1,100,0.313,31.3,76,3457548,46.5
+Africa,Mozambique,High,Mozambique,105,Sub-Saharan Africa,836.578206020,287.463874432,0,1,100,0.537,53.7,136,32419747,46.5
+Africa,Mauritania,High,Mauritania,106,Sub-Saharan Africa,942.092949823,238.860482738,0,1,100,0.632,63.2,161,4475683,46.5
+Africa,Mauritius,Medium,Mauritius,107,Sub-Saharan Africa,589.397753588,232.550354474,0,1,100,0.347,34.7,82,1261041,46.5
+Africa,Malawi,High,Malawi,108,Sub-Saharan Africa,835.713981449,260.900438977,0,1,100,0.554,55.4,142,21507723,46.5
+Asia,Malaysia,Low,Malaysia,109,East Asia & Pacific,438.220689108,161.723902369,0,1,100,0.228,22.8,57,33379500,46.5
+Africa,Namibia,Medium,Namibia,110,Sub-Saharan Africa,697.770059261,297.717768722,0,1,100,0.445,44.5,111,2641857,46.5
+Africa,Niger,High,Niger,111,Sub-Saharan Africa,918.155515533,306.178463503,0,1,100,0.611,61.1,153,25369415,46.5
+Africa,Nigeria,Very High,Nigeria,112,Sub-Saharan Africa,1006.579218786,256.077053080,0,1,100,0.68,68.0,168,216783400,46.5
+America,Nicaragua,Medium,Nicaragua,113,Americas,665.394144598,188.273588879,0,1,100,0.424,42.4,102,6733763,46.5
+Europe,Netherlands,Very Low,Netherlands,114,Europe and Central Asia,173.638395584,249.896071602,0,1,100,0.025,2.5,5,17949700,46.5
+Europe,Norway,Very Low,Norway,115,Europe and Central Asia,158.497235356,235.422364366,0,1,100,0.016,1.6,2,5514042,46.5
+Asia,Nepal,Medium,Nepal,116,South Asia,717.518817069,332.460828666,0,1,100,0.452,45.2,113,29164578,46.5
+Oceania,New Zealand,Very Low,New Zealand,117,East Asia & Pacific,253.038199858,214.393089753,0,1,100,0.088,8.8,25,5223100,46.5
+Asia,Oman,Low,Oman,118,Middle East & North Africa,526.793583261,241.248142345,0,1,100,0.3,30.0,72,5113071,46.5
+Asia,Pakistan,High,Pakistan,119,South Asia,831.866535520,330.169740492,0,1,100,0.534,53.4,135,241499431,46.5
+America,Panama,Medium,Panama,120,Americas,644.569670824,190.419586733,0,1,100,0.392,39.2,96,4337406,46.5
+America,Peru,Medium,Peru,121,Americas,623.813677744,303.117573809,0,1,100,0.38,38.0,90,33396698,46.5
+Asia,Philippines,Medium,Philippines,122,East Asia & Pacific,681.201829291,248.429894147,0,1,100,0.419,41.9,101,110737000,46.5
+Oceania,Papua New Guinea,Very High,Papua New Guinea,123,East Asia & Pacific,1063.454770756,250.069590511,0,1,100,0.725,72.5,169,11781559,46.5
+Europe,Poland,Very Low,Poland,124,Europe and Central Asia,285.863609089,266.483156756,0,1,100,0.109,10.9,31,37691000,46.5
+Europe,Portugal,Very Low,Portugal,125,Europe and Central Asia,232.235608006,165.728861491,0,1,100,0.067,6.7,15,10467366,46.5
+America,Paraguay,Medium,Paraguay,126,Americas,704.881331718,313.386289661,0,1,100,0.445,44.5,111,6109644,46.5
+Asia,Qatar,Low,Qatar,127,Middle East & North Africa,423.591269793,277.269473661,0,1,100,0.22,22.0,54,2656032,46.5
+Europe,Romania,Low,Romania,128,Europe and Central Asia,493.672216162,216.111786221,0,1,100,0.282,28.2,67,19051562,46.5
+Europe,Russia,Low,Russia,129,Europe and Central Asia,419.414114707,308.679151271,0,1,100,0.203,20.3,50,146424729,46.5
+Africa,Rwanda,Medium,Rwanda,130,Sub-Saharan Africa,630.689583217,204.327892587,0,1,100,0.388,38.8,93,13246394,46.5
+Asia,Saudi Arabia,Low,Saudi Arabia,131,Middle East & North Africa,455.807253737,294.553265982,0,1,100,0.247,24.7,59,32175224,46.5
+Africa,Sudan,High,Sudan,132,Middle East & North Africa,847.579747773,371.424777058,0,1,100,0.553,55.3,141,41984500,46.5
+Africa,Senegal,High,Senegal,133,Sub-Saharan Africa,834.936062079,174.733378534,0,1,100,0.53,53.0,131,18275743,46.5
+Asia,Singapore,Very Low,Singapore,134,East Asia & Pacific,194.109747235,302.799974385,0,1,100,0.04,4.0,7,5917600,46.5
+Africa,Sierra Leone,High,Sierra Leone,135,Sub-Saharan Africa,948.823698836,279.061335492,0,1,100,0.633,63.3,162,8494260,46.5
+America,El Salvador,Medium,El Salvador,136,Americas,615.084118081,233.381642530,0,1,100,0.376,37.6,88,6884888,46.5
+Europe,Serbia,Very Low,Serbia,137,Europe and Central Asia,310.371606405,275.372889328,0,1,100,0.131,13.1,36,6641197,46.5
+Africa,South Sudan,High,South Sudan,138,Sub-Saharan Africa,888.350464796,242.257048417,0,1,100,0.587,58.7,150,13249924,46.5
+Africa,São Tomé and Príncipe,Medium,São Tomé and Príncipe,139,Sub-Saharan Africa,767.420015194,339.752158275,0,1,100,0.494,49.4,124,214610,46.5
+America,Suriname,Medium,Suriname,140,Americas,697.746980642,327.660302948,0,1,100,0.427,42.7,105,616500,46.5
+Europe,Slovakia,Low,Slovakia,141,Europe and Central Asia,369.495065697,148.917023924,0,1,100,0.18,18.0,45,5426352,46.5
+Europe,Slovenia,Very Low,Slovenia,142,Europe and Central Asia,244.134823562,283.417376745,0,1,100,0.071,7.1,18,2117674,46.5
+Europe,Sweden,Very Low,Sweden,143,Europe and Central Asia,176.388220115,227.767856921,0,1,100,0.023,2.3,4,10548336,46.5
+Africa,Eswatini,High,Eswatini,144,Sub-Saharan Africa,825.335092796,244.177583316,0,1,100,0.54,54.0,138,1223362,46.5
+Asia,Syria,Medium,Syria,145,Middle East & North Africa,736.989483092,363.953532344,0,1,100,0.477,47.7,119,22923000,46.5
+Africa,Chad,Very High,Chad,146,Sub-Saharan Africa,970.346368790,240.468667029,0,1,100,0.652,65.2,165,17414717,46.5
+Africa,Togo,High,Togo,147,Sub-Saharan Africa,884.243274744,262.805989613,0,1,100,0.58,58.0,149,8095498,46.5
+Asia,Thailand,Medium,Thailand,148,East Asia & Pacific,564.677088615,227.895588597,0,1,100,0.333,33.3,79,68263022,46.5
+Asia,Tajikistan,Low,Tajikistan,149,Europe and Central Asia,495.271525782,189.066966509,0,1,100,0.285,28.5,68,10077600,46.5
+Asia,Turkmenistan,Low,Turkmenistan,150,Europe and Central Asia,341.634218643,273.405239293,0,1,100,0.177,17.7,43,7057841,46.5
+Asia,Timor-Leste,Medium,Timor-Leste,151,East Asia & Pacific,627.673564991,222.345677798,0,1,100,0.378,37.8,89,1354662,46.5
+Oceania,Tonga,High,Tonga,152,East Asia & Pacific,952.705579836,249.037916657,0,1,100,0.631,63.1,160,100179,46.5
+America,Trinidad and Tobago,Medium,Trinidad and Tobago,153,Americas,581.670638818,259.288580575,0,1,100,0.344,34.4,81,1365805,46.5
+Africa,Tunisia,Low,Tunisia,154,Middle East & North Africa,472.111420919,244.739209369,0,1,100,0.259,25.9,61,11850232,46.5
+Asia,Turkey,Low,Turkey,155,Europe and Central Asia,488.123303514,285.898257224,0,1,100,0.272,27.2,65,85279553,46.5
+Africa,Tanzania,High,Tanzania,156,Sub-Saharan Africa,864.228756278,218.496165177,0,1,100,0.56,56.0,146,61741120,46.5
+Africa,Uganda,High,Uganda,157,Sub-Saharan Africa,807.745702735,132.037228935,0,1,100,0.53,53.0,131,42885900,46.5
+Europe,Ukraine,Low,Ukraine,158,Europe and Central Asia,399.208482787,341.892296766,0,1,100,0.2,20.0,49,41130432,46.5
+America,Uruguay,Low,Uruguay,159,Americas,451.005259946,246.300963349,0,1,100,0.235,23.5,58,3566550,46.5
+America,United States,Low,United States,160,Americas,362.669717208,310.422217810,0,1,100,0.179,17.9,44,335581000,46.5
+Asia,Uzbekistan,Low,Uzbekistan,161,Europe and Central Asia,444.319950879,268.287518337,0,1,100,0.227,22.7,56,36599764,46.5
+America,Saint Vincent and the Grenadines,Medium,Saint Vincent and the Grenadines,162,Americas,642.667464516,295.769180734,0,1,100,0.39,39.0,94,110872,46.5
+America,Venezuela,Medium,Venezuela,163,Americas,762.745811148,358.931939469,0,1,100,0.492,49.2,123,28302000,46.5
+Asia,Vietnam,Low,Vietnam,164,East Asia & Pacific,523.193105088,202.187722200,0,1,100,0.296,29.6,71,100000000,46.5
+Oceania,Samoa,Medium,Samoa,165,East Asia & Pacific,666.499916315,203.864226986,0,1,100,0.418,41.8,99,205557,46.5
+Asia,Yemen,Very High,Yemen,166,Middle East & North Africa,1184,250.003883012,0,1,100,0.82,82.0,170,31888698,46.5
+Africa,South Africa,Medium,South Africa,167,Sub-Saharan Africa,652.307275772,222.679902290,0,1,100,0.405,40.5,97,62027503,46.5
+Africa,Zambia,High,Zambia,168,Sub-Saharan Africa,833.586801398,122.462222279,0,1,100,0.54,54.0,138,19610769,46.5
+Africa,Zimbabwe,High,Zimbabwe,169,Sub-Saharan Africa,816.131232914,106.637766898,0,1,100,0.532,53.2,134,15178979,46.5
+,-1,,-1,-1,,0,0,0,1,100,,,,,46.5
+,-2,,-2,-2,,1344,0,0,1,100,,,,,46.5
+,-3,,-3,-3,,0,500,0,1,100,,,,,46.5
+,-4,,-4,-4,,1344,500,0,1,100,,,,,46.5

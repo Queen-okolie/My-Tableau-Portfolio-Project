@@ -1,0 +1,7 @@
+﻿Add/Remove Tag,Check Mark,Order String,Selected Tags,Tag,Tag Label,Order,Tag Length
+, ✔ ,1,True,Sales: Hight to Low,Sales: Hight to Low ✔ ,1,22
+12, +,2,False,Last 7 Days,Last 7 Days +,2,13
+13, +,3,False,Rating: Dissatisfied,Rating: Dissatisfied +,3,22
+14, +,4,False,Members,Members +,4,9
+15, +,5,False,Cash,Cash +,5,6
+16, +,6,False,Ewallet,Ewallet +,6,9
